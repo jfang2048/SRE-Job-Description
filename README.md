@@ -1,7 +1,7 @@
 # SRE-Job-Description
 2026年SRE/DevOps/AI Infra学习路线，人肉爬取boss直聘信息提取
 
-最终我选择手动截图，爬取 BOSS 直聘上 SRE、DevOps、运维、AI infra 相关岗位的 JD。
+手动截图，爬取 BOSS 直聘上 SRE、DevOps、运维、AI infra 相关岗位的 JD。
 
 
 通过大模型 OCR 提取文字，再按关键词频率压缩、总结，整理出这份学习路径，分享供大家参考 :)
